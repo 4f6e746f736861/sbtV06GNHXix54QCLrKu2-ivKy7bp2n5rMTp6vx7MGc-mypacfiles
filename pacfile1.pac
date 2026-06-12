@@ -1,4 +1,9 @@
 const domains = [
+    "claudemcpcontent.com", // claude
+    "jsdelivr.net", // claude
+    "esm.sh", // claude
+    "anthropic.com", // claude
+    "claude.ai", // claude
     "nnmstatic.win", // nnmclub.to
     "torproject.org", // tor
     "tg.dev", // telegram
