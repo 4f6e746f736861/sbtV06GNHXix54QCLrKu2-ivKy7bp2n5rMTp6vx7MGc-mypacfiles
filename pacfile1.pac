@@ -18,8 +18,8 @@ const domains = [
     "sagernet.org", // sing-box docs
     "censorship.no",
     "4pda.to",
-//    "gql.twitch.tv", // twich, trying to avoid block 1080 quality
-//    "usher.ttvnw.net", // twich, trying to avoid block 1080 quality
+    "gql.twitch.tv", // twich, trying to avoid block 1080 quality
+    "usher.ttvnw.net", // twich, trying to avoid block 1080 quality
     "4pda.to",
     "cloudfront.net", // CDN Amazon (sometime twitch use it)
     "habr.com",
