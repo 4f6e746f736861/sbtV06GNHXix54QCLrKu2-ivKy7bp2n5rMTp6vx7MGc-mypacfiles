@@ -1,4 +1,5 @@
 const domains = [
+    "cdn.cavernoftime.com" // cdn
     "claudemcpcontent.com", // claude
     "jsdelivr.net", // claude
     "esm.sh", // claude
