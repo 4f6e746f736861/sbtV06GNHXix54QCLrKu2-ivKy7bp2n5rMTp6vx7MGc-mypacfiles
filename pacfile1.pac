@@ -1,4 +1,5 @@
 const domains = [
+    "cloudflare.com" // cloudflare
     "cdn.cavernoftime.com" // cdn
     "claudeusercontent.com", // claude
     "claudemcpcontent.com", // claude
