@@ -1,6 +1,6 @@
 const domains = [
     "cloudflare.com" // cloudflare
-    "cdn.cavernoftime.com" // cdn
+    "cdn.cavernoftime.com" // cdn warmane
     "claudeusercontent.com", // claude
     "claudemcpcontent.com", // claude
     "jsdelivr.net", // claude
