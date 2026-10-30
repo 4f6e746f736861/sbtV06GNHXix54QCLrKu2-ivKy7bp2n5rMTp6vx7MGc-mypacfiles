@@ -20,7 +20,6 @@ const domains = [
     "kiwix.org", // kiwix
     "sagernet.org", // sing-box docs
     "censorship.no",
-    "4pda.to",
 //    "ttvnw.net", // twich, video stream
 //    "gql.twitch.tv", // twich, trying to avoid block 1080 quality
 //    "usher.ttvnw.net", // twich, trying to avoid block 1080 quality
